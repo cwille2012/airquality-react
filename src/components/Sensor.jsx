@@ -21,6 +21,10 @@ const Sensor = (props) => {
       <h4>Sensor Status: {sensor.status}</h4>
       <h4>Sensor ID: {sensor.id}</h4>
 
+      <button>Edit Sensor</button>
+
+      <br/>
+      <br/>
 
       <Link to='/sensors'>Back</Link>
     </div>
