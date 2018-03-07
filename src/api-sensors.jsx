@@ -1,4 +1,4 @@
-// A simple data API that will be used to get the data for components
+// Add get request to server instead of hardcoding
 
 const SensorAPI = {
   sensors: [
